@@ -1,4 +1,4 @@
 package com.example.BankManagementSystem.entity;
 
-public class CustomerStatus {
+public class Account {
 }
